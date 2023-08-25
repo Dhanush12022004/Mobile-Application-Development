@@ -35,8 +35,9 @@ Registeration Number :212221040038
 */
 ```
 
-```
+
 ## activity_main.xml:
+```
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 
     xmlns:app="http://schemas.android.com/apk/res-auto"
