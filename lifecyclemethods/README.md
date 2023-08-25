@@ -10,6 +10,7 @@ To create a HelloWorld Activity using all lifecycles methods to display messages
 Latest Version Android Studio
 
 ## ALGORITHM:
+```
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -24,6 +25,7 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
+```
 
 ## PROGRAM:
 ```
@@ -34,6 +36,7 @@ Registeration Number :212221040038
 */
 ```
 ## activity_main.xml :
+```
 <?xml version="1.0" encoding="utf-8"?>
 
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -76,8 +79,10 @@ Registeration Number :212221040038
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 ## MainActivity.java :
+```
 package com.example.androidlifecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -167,7 +172,7 @@ public class MainActivity extends AppCompatActivity
     }
     
 }
-
+```
 
 ## OUTPUT
 
