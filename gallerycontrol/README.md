@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by:
-Registeration Number :
+Developed by:DHANUSH GR
+Registeration Number :212221040038
 */
 ```
 
