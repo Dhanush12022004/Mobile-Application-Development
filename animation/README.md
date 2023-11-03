@@ -301,13 +301,3 @@ public void slide(View view){
           Thus a Simple Android Application To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio is developed and executed successfully.
 
 
-
-
-
-
-
-
-
-## RESULT
-
-
