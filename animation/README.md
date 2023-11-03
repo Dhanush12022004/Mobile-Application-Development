@@ -298,7 +298,4 @@ public void slide(View view){
 ![Zoom](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/4fc80130-e121-4c3a-a6bb-d2bde3705411)
 
 ## RESULT:  
-```
-Thus a Simple Android Application To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio is developed and executed successfully.
-```
-
+Thus a Simple Android Application to develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio is developed and executed.
