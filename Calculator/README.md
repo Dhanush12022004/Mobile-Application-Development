@@ -1,4 +1,4 @@
-# MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio
+# Ex.No:9 Develop a simple calculator using android studio.
 
 ## AIM:
 
